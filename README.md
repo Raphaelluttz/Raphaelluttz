@@ -2,7 +2,7 @@
 
 I am Raphael Lutz Timm, I am a tech enthusiast. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-RaphaelLutzTimm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/raphael-lutz-timm-471961223/)
+[![Linkedin Badge](https://img.shields.io/badge/-Raphael Lutz Timm-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khushi321/)](https://www.linkedin.com/in/raphael-lutz-timm-471961223/)
 [![Gmail Badge](https://img.shields.io/badge/-Raphaellutztimm4848@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raphaellutztimm4848@gmail.com)](mailto:raphaellutztimm4848@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Wordpress&logoColor=white&link=https://khushi0321.github.io/portfolio/#/)](https://khushi0321.github.io/portfolio/#/)
 
